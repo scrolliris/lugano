@@ -1,0 +1,12 @@
+---
+related:
+  - basics/what-is-scrolliris.adoc
+---
+
+Scrolliris is used by various web publications and applications worldwide,
+such as medical information or legal documents.
+
+For example, they use Scrolliris:
+
+- link:https://ch.oddb.org[Open Drug Database] in Switzerland
+- link:https://de.oddb.org[Open Drug Database] in German

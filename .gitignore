@@ -1,0 +1,8 @@
+.*-version
+
+_book
+public
+
+node_modules
+
+venv*

@@ -1,0 +1,15 @@
+{
+  "root": "./site",
+  "title": "Scrolliris Help Center",
+  "author": "Lupine Software LLC",
+  "language": "en",
+  "structure": {
+    "readme": "README.adoc",
+    "summary": "TOC.adoc"
+  },
+  "plugins": [
+    "theme-faq",
+    "-fontsettings",
+    "-sharing"
+  ]
+}

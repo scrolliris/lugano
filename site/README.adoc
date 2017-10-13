@@ -1,0 +1,5 @@
+Welcome to the help documentation for
+link:https://about.scrolliris.com/[Scrolliris], where you can know how to
+integrate text readability analysis into your document, publish your owned
+publication on scrolliris.com. If you are looking for details about the
+Scrolliris, see also link:https://doc.scrolliris.com/[Documentation].

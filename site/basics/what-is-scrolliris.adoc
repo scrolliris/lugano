@@ -1,0 +1,10 @@
+---
+related:
+  - basics/who-s-using-scrolliris.adoc
+---
+
+Scrolliris is a publication platform which utilizes text readability analysis,
+and the name of free software analysis script and widget.
+
+We provide practical readability feedback to author. Its tracking is
+anonymous, and its data is open.
