@@ -8,5 +8,7 @@ such as medical information or legal documents.
 
 For example, they use Scrolliris:
 
+`Fachinformation`, `Patienteninformation`
+
 - link:https://ch.oddb.org[Open Drug Database] in Switzerland
 - link:https://de.oddb.org[Open Drug Database] in German

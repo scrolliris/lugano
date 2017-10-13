@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+#book-search-input {
+  width: 100%;
+  max-width: 840px;
+  padding: 0 4px;
+  margin: 39px auto 24px auto !important;
+}
+
+#book-search-input input {
+  width: 100%;
+  border: 6px solid #d2d2d2;
+  border-radius: 2px;
+}
+
+.faq-page {
+  font-family: 'Roboto Slab', serif;
+  font-weight: normal;
+  padding: 3px 3px;
+}
+
+.container .description {
+  padding-top: 28px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 840px) {
+  .container {
+    width: 820px !important;
+  }
+}
+
+.navbar-header .navbar-brand {
+  padding: 11px 15px 15px 14px;
+}
+
+.breadcrumb {
+  border-radius: 2px;
+}
+
+i.fa {
+  margin-right: 2px;
+}
+
+.faq-page ul {
+  padding-left: 1.2em;
+}
+
+.faq-page ul li p {
+  margin: 0;
+
+}
