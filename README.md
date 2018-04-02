@@ -14,12 +14,12 @@
                 /|
                 \|
 
-Lugano; scrolLiris Useful Guide ANd help dOcumentation
+Lugano; scrolLiris Useful Guide ANd support dOcuments
 ```
 
-This documentation project is a guide and help documentation to [Scrolliris](
+This documentation project is a guide and usage support to [Scrolliris](
 https://about.scrolliris.com/). Read it on [online](
-https://help.scrolliris.com/).
+https://support.scrolliris.com/).
 
 
 ## Repository
