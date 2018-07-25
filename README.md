@@ -1,8 +1,11 @@
-# Lugano
+# Scrolliris Support Docs
 
-`/luˈɡaːno/`
+Code Name: `Lugano /luˈɡaːno/`
 
 [![pipeline status][pipeline]][commit]
+
+[pipeline]: https://gitlab.com/scrolliris/scrolliris-support-docs/badges/master/pipeline.svg
+[commit]: https://gitlab.com/scrolliris/scrolliris-support-docs/commits/master
 
 
 ```txt
@@ -24,7 +27,7 @@ https://support.scrolliris.com/).
 
 ## Repository
 
-https://gitlab.com/scrolliris/lugano
+https://gitlab.com/scrolliris/scrolliris-support-docs
 
 
 ## Setup
@@ -54,7 +57,7 @@ https://gitlab.com/scrolliris/lugano
 ## License
 
 ```txt
-Lugano
+Scrolliris Support Docs
 Copyright (c) 2017 Lupine Software LLC
 ```
 
@@ -72,7 +75,3 @@ Free Documentation License".
 ```
 
 See [LICENSE](LICENSE).
-
-
-[pipeline]: https://gitlab.com/scrolliris/lugano/badges/master/pipeline.svg
-[commit]: https://gitlab.com/scrolliris/lugano/commits/master
